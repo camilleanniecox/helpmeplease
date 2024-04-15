@@ -1,0 +1,47 @@
+.bolder {
+    font-weight: bolder;
+
+}
+.bold {
+    font-weight: bold;
+    text-decoration-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+li {
+    font-weight: normal;
+    font-style: italic;
+    text-decoration-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.normals {
+    font-style: normal;
+    text-decoration-color: black;
+}
+#divmehelp {
+    color: rgb(82, 75, 62);}
+.position {
+        position: absolute;
+        bottom:-975px;
+        background-color: tan;
+        right: 400px;
+        border: 2px solid black;
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+    .custom-body {
+        position: relative !important;
+        background-color: tan !important;
+        right: 25px !important;
+        border: 3px solid black !important;
+        padding: 30px !important;
+    }
+.photoposition{
+    right: 36px;
+    position: absolute;
+    bottom: 566px;
+}
+.videoposition{
+    right: 43px;
+    position: absolute;
+    bottom: -918px;
+}
